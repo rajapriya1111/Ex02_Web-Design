@@ -1,5 +1,6 @@
 # Ex.02 Implementation of Lists
 ## AIM
+## DATE 06/04/2024
   To create list of Departments in an Institution.
 
 ## ALGORITHM
