@@ -20,7 +20,8 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-```<html>
+```
+<html>
     <head>
         <title>
             list
@@ -48,7 +49,8 @@
 
         </ol>
     </body>
-    </html>```
+    </html>
+```
 
 ## OUTPUT
 ![alt text](<Screenshot (5).png>)
